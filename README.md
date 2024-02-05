@@ -15,9 +15,9 @@ Extract plaintext wifi passwords from a windows machine.
 
 ## How to Use
 
-Launch with cargo :  
+- Launch with cargo :  
 `cargo build`  
 `cargo run`  
 
-Launch with .exe file :  
+- Or launch with .exe file :  
 The .exe file is located in target/debug/wifi_rustler.exe or in releases.
